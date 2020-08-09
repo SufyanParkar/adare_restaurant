@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #9fa8d6;
+    background-color: #4d4d50;
     background-image:url(images/background-adare-restaurant.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ main {
 }
 
 footer {
-    background-color: rgba(12, 10, 131, 0.562);
+    background-color: rgba(84, 82, 214, 0.562);
 }
 
 h1 {
